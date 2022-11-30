@@ -1,2 +1,2 @@
-# Search-Engine-SheCodes-Plus-Week5-week5
+# Search-Engine-SheCodes-Plus-Week5
 Created with CodeSandbox
